@@ -15,7 +15,7 @@ let a = [
     "Match found in 423K",
     "Accessing Account detalis",
     "Hack Successful",
-    "Dont't fear, just close the tab Now",
+    "Do not fear, just close the tab Now",
     "You are responsible for all this",
     "Haaaaa Haaaa Haaa",
 ]

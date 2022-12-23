@@ -18,6 +18,8 @@ let a = [
     "Do not fear, just close the tab Now",
     "You are responsible for all this",
     "Haaaaa Haaaa Haaa",
+    "Kesa laga mera Mazaak",
+    "But, doesn't mean that's not true",
 ]
 let c = "Alert Close the tab Within  Seconds, before the setup is complete;;; code:<000:453/588:300.434/>";
 

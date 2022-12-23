@@ -14,12 +14,12 @@ let a = [
     "Match not found",
     "Match found in 423K",
     "Accessing Account detalis",
-    "Hack Successful"
-    "Dont't fear, just close the tab Now"
-    "You are responsible for all this"
-    "Haaaaa Haaaa Haaa"
+    "Hack Successful",
+    "Dont't fear, just close the tab Now",
+    "You are responsible for all this",
+    "Haaaaa Haaaa Haaa",
 ]
-let c = "Alert Close the tab Within Seconds, before the setup is complete;;;;; code:<000:453/588:300.434/>";
+let c = "Alert Close the tab Within  Seconds, before the setup is complete;;; code:<000:453/588:300.434/>";
 
 let b = "To the 'World of Hecking'<br>";
 
